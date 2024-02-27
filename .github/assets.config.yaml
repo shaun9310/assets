@@ -18,6 +18,7 @@ validators_settings:
     allowed_files:
       - ".github"
       - "blockchains"
+      
       - "dapps"
       - "media"
       - "node_modules"
